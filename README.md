@@ -65,8 +65,8 @@
         }
 
         footer {
-            background: #0aa1a1;
-            color: white;
+            background-color: #f4f7f9;
+            color: #333;
             padding: 30px 20px;
         }
 
@@ -162,7 +162,7 @@
 
     <div class="legal">
         <p>
-            ⚖️ Pure Dental është klinikë e licencuar dhe operon sipas standardeve
+            Pure Dental është klinikë e licencuar dhe operon sipas standardeve
             të Ministrisë së Shëndetësisë.
         </p>
         <p>
